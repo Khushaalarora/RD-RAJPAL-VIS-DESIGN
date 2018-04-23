@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>MAKE IN INDIA</title>
+</head>
+
+<body bgcolor= "black" left margin="45">
+<font size="12">
+
+<img src="C:\Users\Lenovo\Desktop\78.gif" width="40%" style="margin-left:350px;">
+<style>
+body {
+    font-size: 12px;
+}
+
+ul {
+    list-style-type: none;
+    
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: gray;
+}
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a class="active" href="#home">HOME</a></li>
+  <li><a href="#news">NEWS</a></li>
+  <li><a href="#contact">CONTACT</a></li>
+  <li style="float:right"><a class="active" href="#about us">ABOUT US</a></li>
+</ul>
